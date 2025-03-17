@@ -1,0 +1,10 @@
+.company-link {
+    text-decoration: none;
+}
+
+.carousel-inner img {
+    object-fit: cover;
+    transform: scale(0.5);
+    margin-top: -180px;
+    margin-bottom: -180px;
+}
